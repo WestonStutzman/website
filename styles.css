@@ -1,0 +1,31 @@
+body{
+    display: flex;
+}
+iframe{
+    border: 10px solid black;
+}
+main{
+    flex: 1;
+}
+ul.links{
+    width: 2in; 
+    margin: 0;
+    padding: 0; 
+}
+ul.links li{
+    display: block;
+    margin: 1px;
+    padding: 0;
+}
+ ul.links a {
+     padding: 10px;
+     display: block;
+     transition: all 1s;
+background: pink;
+ }  
+
+ ul.links a:hover{
+ color: white; 
+background: darkslategrey;
+transform: scale(1.10)
+ }
