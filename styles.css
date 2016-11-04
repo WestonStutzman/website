@@ -2,7 +2,7 @@ body{
     display: flex;
 }
 iframe{
-    border: 10px solid black;
+    border: 10px solid blue;
 }
 main{
     flex: 1;
@@ -13,7 +13,7 @@ ul.links{
     padding: 0; 
 }
 ul.links li{
-    display: block;
+display: block;
     margin: 1px;
     padding: 0;
 }
@@ -25,7 +25,7 @@ background: pink;
  }  
 
  ul.links a:hover{
- color: white; 
+ color: pink; 
 background: darkslategrey;
 transform: scale(1.10)
  }
