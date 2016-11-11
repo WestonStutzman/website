@@ -8,9 +8,9 @@ main{
     flex: 1;
 }
 ul.links{
-    width: 2in; 
+    width: 2in;
     margin: 0;
-    padding: 0; 
+    padding: 0;
 }
 ul.links li{
 display: block;
@@ -22,10 +22,10 @@ display: block;
      display: block;
      transition: all 1s;
 background: pink;
- }  
+ }
 
  ul.links a:hover{
- color: pink; 
+ color: pink;
 background: darkslategrey;
 transform: scale(1.10)
  }
