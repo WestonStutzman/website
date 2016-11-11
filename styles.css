@@ -2,7 +2,7 @@ body{
     display: flex;
 }
 iframe{
-    border: 10px solid blue;
+    border: 10px double blue;
 }
 main{
     flex: 1;
