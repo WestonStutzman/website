@@ -1,9 +1,10 @@
 body{
     display: flex;
 }
-iframe<p>{
+iframe{
     border: 10px double black;
-</p>}
+}
+
 main{
     flex: 1;
 }
@@ -26,6 +27,6 @@ background: pink;
 
  ul.links a:hover{
  color: pink;
-background: darkslategrey;
+background: navy;
 transform: scale(1.10)
  }
